@@ -10,7 +10,7 @@ Automatic Parking System
 Smart Home
 Enviromental Monitoring
 
-# Traffic Control System
+## Traffic Control System
 
 This project has been divided into 4 phases:
 * Automatic street light system
@@ -19,7 +19,7 @@ This project has been divided into 4 phases:
 lane as green and other lanes as red.
 * Show the status of traffic lights on a dashboard (Thingspeak)
 
-# Phase 1: Automated Street Lighting System
+### Phase 1: Automated Street Lighting System
 Smart Street light is a robotized framework which automate the road. The primary point of Smart Street light is to reduce the power utilization. The Smart road light will turn to be ON when there is not enough sunlight for travelling and about generally the lights will be turned OFF when ther is enough sunlight. With improvement in technology, things are getting to be easier and simpler for everybody around the world today. This is just a demo version of the system.
 
 Components used in this part of the project are:
