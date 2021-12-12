@@ -32,3 +32,4 @@ a resistor and a capacitor
 
 https://user-images.githubusercontent.com/95992947/145700866-6e6be97f-a5d9-4bdb-b53d-1d76bf97187c.mp4
 
+Python Script for Street Light System
